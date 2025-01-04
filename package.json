@@ -25,13 +25,32 @@
     "prettier-plugin-organize-imports": "^3.2.4",
     "prettier-plugin-tailwindcss": "^0.6.0",
     "tsconfig": "workspace:*",
-    "turbo": "^1.12.5"
+    "turbo": "file:/Users/mustapha/Downloads/turbo-1.10.14.tgz"
   },
   "resolutions": {
     "@radix-ui/react-dialog": "1.0.5",
     "@radix-ui/react-popover": "1.0.7",
     "@prisma/client": "^6.1.0",
-    "prisma": "^6.1.0"          
+    "prisma": "^6.1.0"
   },
-  "packageManager": "pnpm@8.6.10" 
+  "packageManager": "pnpm@8.6.10",
+  "dependencies": {
+    "@prisma/engines": "file:/Users/mustapha/Downloads/engines-6.1.0.tgz",
+    "@types/geojson": "file:/Users/mustapha/Downloads/geojson-7946.0.11.tgz",
+    "@types/istanbul-lib-report": "file:/Users/mustapha/Downloads/istanbul-lib-report-3.0.1.tgz",
+    "@types/scheduler": "file:/Users/mustapha/Downloads/scheduler-0.16.4.tgz",
+    "browserslist": "file:/Users/mustapha/Downloads/browserslist-4.23.3.tgz",
+    "caniuse-lite": "file:/Users/mustapha/Downloads/caniuse-lite-1.0.30001651.tgz",
+    "fraction.js": "file:/Users/mustapha/Downloads/fraction.js-4.3.6.tgz",
+    "get-tsconfig": "file:/Users/mustapha/Downloads/get-tsconfig-4.8.1.tgz",
+    "is-object": "file:/Users/mustapha/Downloads/is-object-1.0.2.tgz",
+    "minimist": "file:/Users/mustapha/Downloads/minimist-1.2.8.tgz",
+    "nanoid": "file:/Users/mustapha/Downloads/nanoid.tgz",
+    "normalize-range": "file:/Users/mustapha/Downloads/normalize-range-0.1.2.tgz",
+    "picocolors": "file:/Users/mustapha/Downloads/picocolors.tgz",
+    "postcss": "file:/Users/mustapha/Downloads/postcss-8.4.31.tgz",
+    "source-map": "file:/Users/mustapha/Downloads/source-map-js.tgz",
+    "strip-ansi": "file:/Users/mustapha/Downloads/strip-ansi.tgz",
+    "wrap-ansi": "file:/Users/mustapha/Downloads/wrap-ansi.tgz"
+  }
 }

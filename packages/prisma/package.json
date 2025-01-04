@@ -14,12 +14,12 @@
   },
   "dependencies": {
     "@planetscale/database": "^1.18.0",
-    "@prisma/adapter-planetscale": "^5.18.0",
-    "@prisma/client": "5.18.0"
+    "@prisma/adapter-planetscale": "^6.1.0",
+    "@prisma/client": "^6.1.0"
   },
   "devDependencies": {
     "@types/node": "18.11.9",
-    "prisma": "5.18.0",
+    "prisma": "^6.1.0",
     "tsx": "^4.11.0",
     "typescript": "5.2.2"
   },
